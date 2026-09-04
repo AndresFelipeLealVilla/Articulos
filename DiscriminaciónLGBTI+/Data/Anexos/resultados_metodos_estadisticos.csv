@@ -1,0 +1,6 @@
+modelo,estadístico,p_valor
+Fisher travesti vs mujer trans,OR=0.000,4.675424054094282e-09
+Poisson tendencia anual,RR=1.051,8.407019385621886e-06
+Logit missingness ~ año,OR=0.697,5.011606589602983e-14
+Logit acción ~ año + capital (año),OR=1.441,2.652927027275779e-13
+Logit acción ~ año + capital (capital),OR=0.462,0.020377086115640628
